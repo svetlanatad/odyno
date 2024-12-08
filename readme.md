@@ -1,6 +1,15 @@
 # Dynamic array structure written in oberon!
 
-You can build it by 
+Before testing, hey, you do have voc, right? 
+Oh, no? 
+Go ahead to 
+
+```
+https://github.com/vishapoberon/compiler.git
+```
+Read their readme file and build it for your specific system.
+
+You can build odyno, that is, oberon dynamic structure,  by 
 
 ```
 make 
